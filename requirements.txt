@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pillow
+opencv-python
+pdf2image
+python-docx
+
+paddleocr
+paddlepaddle
