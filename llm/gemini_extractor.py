@@ -3,7 +3,7 @@ from PIL import Image
 import json
 
 # Initialize Client
-client = genai.Client(api_key="API key")
+client = genai.Client(api_key="API your key")
 
 
 def extract_document_details(image_file):
